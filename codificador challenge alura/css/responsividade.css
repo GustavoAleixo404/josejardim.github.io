@@ -34,6 +34,8 @@
         display: none;
     }
 
+    /* Fazendo a imagem desaparecer em telas menores. */
+
     #inserir-textarea,
     #resposta-textarea {
         height: 100px;
@@ -89,6 +91,8 @@
     .img-buscando {
         display: none;
     }
+
+    /* Fazendo a imagem desaparecer em telas menores. */
 
     #inserir-textarea,
     #resposta-textarea {
